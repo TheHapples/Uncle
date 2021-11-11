@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "node": "^17.0.1"
+  },
+  "name": "uncle",
+  "description": "Uncle revised for Discord v13",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheHapples/Uncle.git"
+  },
+  "author": "Happles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheHapples/Uncle/issues"
+  },
+  "homepage": "https://github.com/TheHapples/Uncle#readme"
+}
